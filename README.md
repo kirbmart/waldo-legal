@@ -64,5 +64,5 @@ URLs:
 
 ## Customizing
 
-Update the contact email (`hello@waldoapp.io`) in `privacy.html`,
+Update the contact email (`brady@goodlunch.com`) in `privacy.html`,
 `terms.html`, and `support.html` if you'd prefer a different address.
